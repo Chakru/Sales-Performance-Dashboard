@@ -12,11 +12,9 @@ This Excel workbook demonstrates my proficiency in data analysis, pivot tables, 
 
 ## Features
 
-- Advanced use of pivot tables to slice and dice data by various dimensions (product, month, region).
 - Interactive charts linked to pivot tables for real-time visualization of key metrics.
 - Separate sheets for raw data, pivot analysis, and dashboard for clarity and ease of navigation.
 - Consistent formatting to ensure a polished and professional appearance.
-- (Optional) Use of slicers and filters to enable dynamic data exploration.
 
 ## How to Use
 
