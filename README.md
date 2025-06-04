@@ -16,6 +16,14 @@ This Excel workbook demonstrates my proficiency in data analysis, pivot tables, 
 - Separate sheets for raw data, pivot analysis, and dashboard for clarity and ease of navigation.
 - Consistent formatting to ensure a polished and professional appearance.
 
+## TODO
+
+- [ ] Implement advanced PivotTable techniques to analyze data across multiple dimensions (e.g., product, month, region)
+- [ ] Integrate slicers and filters to enable dynamic and interactive data exploration
+- [ ] Create advanced charts for enhanced data visualization:
+  - [ ] Waterfall Chart for Year-over-Year (YoY) and Month-over-Month (MoM) analysis
+  - [ ] Customer Type Analysis chart for segmentation insights
+
 ## How to Use
 
 1. Open the Excel workbook.
